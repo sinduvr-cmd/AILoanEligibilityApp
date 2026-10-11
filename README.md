@@ -6,8 +6,9 @@ The application evaluates customer loan eligibility using transparent, rule-base
 
 ---
 
-## 📌 Repository Information & Git Path
+## 📌 Live Application & Repository Links
 
+- **Live Streamlit App**: [https://ailoaneligibilityapp-dt8apiqb4poh6yvalzbxxd.streamlit.app/](https://ailoaneligibilityapp-dt8apiqb4poh6yvalzbxxd.streamlit.app/)
 - **Git Repository URL**: [https://github.com/sinduvr-cmd/AILoanEligibilityApp](https://github.com/sinduvr-cmd/AILoanEligibilityApp)
 - **Git User Profile**: [https://github.com/sinduvr-cmd](https://github.com/sinduvr-cmd)
 
@@ -54,6 +55,9 @@ streamlit run app.py
 
 Once started, access the dashboard in your web browser at:
 `http://localhost:8501`
+
+Alternatively, access the live cloud deployment directly at:
+**[https://ailoaneligibilityapp-dt8apiqb4poh6yvalzbxxd.streamlit.app/](https://ailoaneligibilityapp-dt8apiqb4poh6yvalzbxxd.streamlit.app/)**
 
 ### 4. Run Automated Unit Tests
 To run the full suite of automated unit and boundary tests:
